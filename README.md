@@ -21,6 +21,8 @@ Run python fusion.py a demo for fusion.
 
 You can load more score data in different feautres, and modifiy fusion.py as other feaure score load in this file.
 # Reference
+Paper's introduction,you can download reference data and author's implemment way in matlab.
 1. [Query-Adaptive Late Fusion for Image Search and Person Re-identification](http://www.liangzheng.com.cn/Project/project_fusion.html)
 
-2.[Read notes about query adaptive fusion](http://www.noneface.com/2017/02/24/Query_Adaptive_Fusion_read_note.html)
+Some notes when i read this paper.
+2. [Read notes about query adaptive fusion](http://www.noneface.com/2017/02/24/Query_Adaptive_Fusion_read_note.html)
